@@ -1,11 +1,10 @@
-Hi, I'm @DevRickyCst 👋 \
+Hi, I'm @DevRickyCst 👋 
 
-Currently Data Engineer at Mobsuccess. 💻 \
+Currently Data Engineer at Mobsuccess. 💻 
 
-Also interested in full-stack development, Blockchain, \
-Devops and Cloud Computing architecture. 👀 \
+Also interested in full-stack development, Blockchain, Devops and Cloud Computing architecture. 👀 
 
-Always trying to learn more ! 📖 \
+Always trying to learn more ! 📖 
 
 
 <!---
