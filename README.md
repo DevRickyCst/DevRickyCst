@@ -2,7 +2,9 @@ Hi, I'm @DevRickyCst 👋
 
 Currently Data Engineer at Mobsuccess. 💻 
 
-Also interested in full-stack development, Blockchain, Devops and Cloud Computing architecture. 👀 
+Also interested in Python development, Blockchain, Devops and Cloud Computing architecture. 👀 
+
+This is my repo to explore new areas.
 
 Always trying to learn more ! 📖 
 
