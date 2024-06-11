@@ -1,6 +1,6 @@
 ### Hi, I'm @DevRickyCst 👋 
 ---
-- Specially interested in data engineering and data pipelines platforms
+- Specially interested in data engineering and data pipelines
 - Currently Data Engineer at Mobsuccess. 💻 
 - Also interested in Python development, Devops and Cloud Computing architecture. 👀 
 
