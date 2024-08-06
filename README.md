@@ -6,8 +6,6 @@
 
 Always trying to learn more ! 📖 
 
-Portfolio : [https://devrickycst.github.io](https://devrickycst.github.io)
-
 This is my repo to explore new areas.
 
 #### Back-end development 
