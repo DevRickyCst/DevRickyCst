@@ -2,7 +2,7 @@
 ---
 - Specially interested in data engineering and data pipelines :chart_with_upwards_trend:
 - Currently Data Engineer at Mobsuccess. 💻 
-- Also interested in Python development, Devops and Cloud Computing architecture. 👀 
+- Also interested in Python, Rust development, Devops and Cloud Computing architecture. 👀 
 
 Always trying to learn more ! 📖 
 
